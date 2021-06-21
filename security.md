@@ -18,6 +18,8 @@ This is how I have set it up (In the links below, you can do `Right-click > Open
 ## Hooking your devices to use the filters
 Once this is set up, you will need to add each student device to use the DNS of the desired profile.
 
+On both Mac and Windows, I would set the users with a `Standard` account so that they cannot change the Network properties. Another page will follow with more details about this.
+
 ### On Mac
 - From the Apple menu, select System Preferences. The window shown below appears.
 - Click Network. The window shown below appears.
